@@ -11,6 +11,11 @@ API for Magic the Gathering card game.
 
 ### Technologies
 
-*MongoDB
-*Mongoose
-*Express
+* MongoDB
+
+* Mongoose
+
+* Express
+
+#### How to Use
+
